@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qa-simple-thumbnail/static/css/main.6cafd1e9.css",
-    "main.js": "/qa-simple-thumbnail/static/js/main.cda7f7d7.js",
+    "main.css": "/qa-simple-thumbnail/static/css/main.78a77fb6.css",
+    "main.js": "/qa-simple-thumbnail/static/js/main.28e693ea.js",
     "static/media/SB-어그로OTF-B.woff2": "/qa-simple-thumbnail/static/media/SB-어그로OTF-B.c07f82b5d952c9a46ada.woff2",
     "static/media/SB-어그로OTF-M.woff2": "/qa-simple-thumbnail/static/media/SB-어그로OTF-M.703a747617238b11a96b.woff2",
     "static/media/SB-어그로OTF-L.woff2": "/qa-simple-thumbnail/static/media/SB-어그로OTF-L.6eab6bfcd65beb8bcc9a.woff2",
@@ -19,11 +19,11 @@
     "static/media/logo_black.svg": "/qa-simple-thumbnail/static/media/logo_black.fa6d287fff234254765bd740cb03f1ec.svg",
     "index.html": "/qa-simple-thumbnail/index.html",
     "static/media/github.svg": "/qa-simple-thumbnail/static/media/github.6a4bf11bfb2a7bc2f687b0db9e57d233.svg",
-    "main.6cafd1e9.css.map": "/qa-simple-thumbnail/static/css/main.6cafd1e9.css.map",
-    "main.cda7f7d7.js.map": "/qa-simple-thumbnail/static/js/main.cda7f7d7.js.map"
+    "main.78a77fb6.css.map": "/qa-simple-thumbnail/static/css/main.78a77fb6.css.map",
+    "main.28e693ea.js.map": "/qa-simple-thumbnail/static/js/main.28e693ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cafd1e9.css",
-    "static/js/main.cda7f7d7.js"
+    "static/css/main.78a77fb6.css",
+    "static/js/main.28e693ea.js"
   ]
 }
