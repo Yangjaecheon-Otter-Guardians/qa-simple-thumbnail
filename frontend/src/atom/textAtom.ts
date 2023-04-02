@@ -12,7 +12,6 @@ export type TextSizeType =
   | 'tablet:text-[26px] text-[16px]'
   | 'tablet:text-[22px] text-[14px]';
 
-
 export type TextType = {
   id: number;
   content: string;
