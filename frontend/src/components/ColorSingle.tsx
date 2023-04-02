@@ -57,7 +57,6 @@ const ColorSingle = () => {
           <button
             className="w-8 h-8 rounded border flex justify-center items-center tablet:w-[48px] tablet:h-[48px] bg-white"
             onClick={pop}
-            aria-label="컬러픽커"
           >
             <IoMdClose className={'tablet:text-[32px]'} style={{ color: 'black' }} />
           </button>
@@ -73,6 +72,7 @@ const ColorSingle = () => {
             background:
               'conic-gradient(from 180deg at 50% 50%, #FF5151 0deg, #FFF850 115.5deg, #50FFA1 218.62deg, #6950FF 360deg)',
           }}
+          aria-label="컬러픽커"
         >
           {currentColor.isPicker && <BsCheck className={'tablet:text-[32px]'} style={{ color: 'black' }} />}
         </button>
